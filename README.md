@@ -13,3 +13,6 @@ If the ```osom_packages.py``` file is changed to include / exclude a package, ru
 ```pip freeze > requirements.txt```
 
 and replace the current ```requirements.txt``` file.
+
+# OSCAR Notes
+To access Jupyter notebooks posted here meant for OSCAR, request a 3hr session for a Jupyter notebook with Anaconda. Longer sessions result in longer wait times.
